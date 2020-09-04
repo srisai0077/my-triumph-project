@@ -104,7 +104,8 @@
 			font-size: 120%
 		}
 		.contactcover img{
-			width: 100%
+			width: 100%;
+			box-shadow: 3px 3px 3px black
 		}
 		.lastp{
 			text-align: center;
